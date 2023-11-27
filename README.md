@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dipakup.a04@gmail.com**
 
-- ⚡ Fun fact **I Think I'm creazzyyyy for Technology.**
+- ⚡ Fun fact **I'm creazzyyyy for Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
