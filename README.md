@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Full stack project**
 
-- 👨‍💻 All of my projects are available at [Portfolio/](https://dipakpatil.42web.io/)
+- 👨‍💻 All of my projects are available at [https://dipakpatil.42web.io/](https://dipakpatil.42web.io/)
 
 - 📫 How to reach me **dipakup.a04@gmail.com**
 
