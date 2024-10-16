@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thedipakpatil" target="blank"><img src="https://img.shields.io/twitter/follow/thedipakpatil?logo=twitter&style=for-the-badge" alt="thedipakpatil" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Full stack project**
+- 🔭 I’m currently working on IOS and Android Application Development for **E-Commerce Full stack project** with React Native
 
 - 👨‍💻 All of my projects are available at [https://dipakpatil.vercel.app//](https://dipakpatil.vercel.app/)
 
