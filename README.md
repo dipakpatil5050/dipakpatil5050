@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thedipakpatil" target="blank"><img src="https://img.shields.io/twitter/follow/thedipakpatil?logo=twitter&style=for-the-badge" alt="thedipakpatil" /></a> </p>
 
-- 🔭 I’m currently working on IOS and Android Application Development for **ERP** Product on React Native
+- 🔭 I’m currently working  as a Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at [https://dipakpatil.vercel.app//](https://dipakpatil.vercel.app/)
 
 - 📫 How to reach me **dipakup.a04@gmail.com**
 
-- ⚡ Fun fact **I'm creazzyyyy for Technology.**
+- ⚡ Fun fact **I'm creazy for Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
