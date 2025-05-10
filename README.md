@@ -53,4 +53,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakpatil5050&show_icons=true&locale=en" alt="dipakpatil5050" /></p>
 
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakpatil5050&" alt="dipakpatil5050" /></p>
