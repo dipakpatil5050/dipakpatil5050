@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working  as a Full Stack Developer.
 
-- 👨‍💻 All of my projects are available at [https://dipakpatil.vercel.app//](https://dipakpatil.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dipakpatil.tech//](https://dipakpatil.tech)
 
 - 📫 How to reach me **dipakup.a04@gmail.com**
 
