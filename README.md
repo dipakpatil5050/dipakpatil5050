@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dipakup.a04@gmail.com**
 
-- ⚡ **Techie**
+- ⚡ Techie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
