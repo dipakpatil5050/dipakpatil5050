@@ -18,46 +18,6 @@
 • Passionate about **building real-world full stack systems**
 
 ---
-
-## 🛠 Tech Stack
-
-### Backend
-Java • Spring Boot • REST APIs • Spring Data JPA • Hibernate • Microservices
-
-### Frontend
-React.js • TypeScript • JavaScript • Redux Toolkit • TanStack Query • Tailwind CSS • React Native
-
-### Database
-PostgreSQL • MySQL • MongoDB
-
-### DevOps & Tools
-Docker • AWS • Kubernetes • Git • IntelliJ • VS Code
-
----
-
-## 📌 Featured Projects
-
-### 🗓 Employee Schedule Management System
-Full-stack scheduling platform built with **Spring Boot, React.js, and PostgreSQL**.
-
-Key Features:
-- Secure **JWT/OAuth2 authentication**
-- Role-based access control (RBAC)
-- RESTful API architecture
-- Interactive dashboards using Redux Toolkit
-- Dockerized deployment on AWS
-
----
-
-### 📱 SYSPRO ERP Mobile Application
-Enterprise mobile application built with **React Native**.
-
-Key Features:
-- Cross-platform Android & iOS support
-- Redux Toolkit state management
-- ElasticSearch integration for fast data search
-- Performance optimized for large enterprise datasets
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thedipakpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedipakpatil" height="30" width="40" /></a>
@@ -90,15 +50,37 @@ Key Features:
 
 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakpatil5050&show_icons=true&locale=en&layout=compact" alt="dipakpatil5050" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakpatil5050&show_icons=true&locale=en" alt="dipakpatil5050" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakpatil5050&" alt="dipakpatil5050" /></p>
 
+---
 
+## 📌 Featured Projects
+
+### 🗓 Employee Schedule Management System
+Full-stack scheduling platform built with **Spring Boot, React.js, and PostgreSQL**.
+
+Key Features:
+- Secure **JWT/OAuth2 authentication**
+- Role-based access control (RBAC)
+- RESTful API architecture
+- Interactive dashboards using Redux Toolkit
+- Dockerized deployment on AWS
+
+---
+
+### 📱 SYSPRO ERP Mobile Application
+Enterprise mobile application built with **React Native**.
+
+Key Features:
+- Cross-platform Android & iOS support
+- Redux Toolkit state management
+- ElasticSearch integration for fast data search
+- Performance optimized for large enterprise datasets
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
