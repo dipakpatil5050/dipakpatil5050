@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipak Patil</h1>
-<h3 align="center">A passionate Software Developer from India 🇮🇳 ❤️</h3>
+<h3 align="center"> Full Stack Developer | Java Spring Boot | React.js from India 🇮🇳 ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakpatil5050&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpatil5050" /> </p>
 
@@ -7,13 +7,56 @@
 
 <p align="left"> <a href="https://twitter.com/thedipakpatil" target="blank"><img src="https://img.shields.io/twitter/follow/thedipakpatil?logo=twitter&style=for-the-badge" alt="thedipakpatil" /></a> </p>
 
-- 🔭 I’m currently working  as a Full Stack Developer.
+---
 
-- 👨‍💻 All of my projects are available at [https://dipakpatil.tech//](https://dipakpatil.tech)
+## 🚀 About Me
 
-- 📫 How to reach me **dipakup.a04@gmail.com**
+• Full Stack Developer with **3 years of experience** building production applications  
+• Specialized in **Java, Spring Boot, Microservices, and React.js**  
+• Experienced in designing **REST APIs, authentication systems, and scalable backend services**  
+• Strong focus on **clean architecture, performance optimization, and maintainable systems**  
+• Passionate about **building real-world full stack systems**
 
-- ⚡ Techie
+---
+
+## 🛠 Tech Stack
+
+### Backend
+Java • Spring Boot • REST APIs • Spring Data JPA • Hibernate • Microservices
+
+### Frontend
+React.js • TypeScript • JavaScript • Redux Toolkit • TanStack Query • Tailwind CSS • React Native
+
+### Database
+PostgreSQL • MySQL • MongoDB
+
+### DevOps & Tools
+Docker • AWS • Kubernetes • Git • IntelliJ • VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🗓 Employee Schedule Management System
+Full-stack scheduling platform built with **Spring Boot, React.js, and PostgreSQL**.
+
+Key Features:
+- Secure **JWT/OAuth2 authentication**
+- Role-based access control (RBAC)
+- RESTful API architecture
+- Interactive dashboards using Redux Toolkit
+- Dockerized deployment on AWS
+
+---
+
+### 📱 SYSPRO ERP Mobile Application
+Enterprise mobile application built with **React Native**.
+
+Key Features:
+- Cross-platform Android & iOS support
+- Redux Toolkit state management
+- ElasticSearch integration for fast data search
+- Performance optimized for large enterprise datasets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
