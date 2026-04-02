@@ -15,7 +15,7 @@
 • Specialized in **Java, Spring Boot, Microservices, and React.js**  
 • Experienced in designing **REST APIs, authentication systems, and scalable backend services**  
 • Strong focus on **clean architecture, performance optimization, and maintainable systems**  
-• Passionate about **building real-world full stack systems**
+• Passionate about building real-world **full stack systems**
 
 ---
 <h3 align="left">Connect with me:</h3>
